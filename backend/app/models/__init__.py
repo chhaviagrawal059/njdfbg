@@ -1,0 +1,20 @@
+from app.models.portal_models import (
+    User,
+    CitizenProfile,
+    InstitutionalProfile,
+    FacultyStudentProfile,
+    IndustryProfile,
+    Challenge,
+    ChallengeMedia,
+    DuplicateMatch,
+    InstitutionAssignment,
+    ProjectProposal,
+    ProjectTeam,
+    Milestone,
+    OpportunityListing,
+    OpportunityApplication,
+    CollaborationAgreement,
+    CommunityFeedback,
+    Notification,
+    AuditLog
+)

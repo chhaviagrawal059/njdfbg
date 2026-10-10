@@ -1,0 +1,5 @@
+from app.ai_services.categorizer import categorize_problem, CATEGORIES
+from app.ai_services.duplicate_detector import detect_duplicates, calculate_haversine_distance
+from app.ai_services.prioritizer import calculate_priority_score
+from app.ai_services.university_matcher import match_institutions_for_challenge
+from app.ai_services.proposal_generator import generate_ai_proposal_draft
